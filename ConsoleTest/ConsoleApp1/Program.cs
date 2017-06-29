@@ -23,12 +23,12 @@ namespace ConsoleApp1
             Name();
             Console.ReadLine();
         }
-    static void PrintMkosName()
-    {
-        Console.ForegroundColor = ConsoleColor.DarkRed;
-        Console.WriteLine("Mykola Kos");
-        Console.ResetColor();
-    }
+        static void PrintMkosName()
+        {
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.WriteLine("Mykola Kos");
+            Console.ResetColor();
+        }
         public static void Name()
         {
             Console.WriteLine("Anna Avramenko");
