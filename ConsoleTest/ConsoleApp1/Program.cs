@@ -17,6 +17,7 @@ namespace ConsoleApp1
             System.Console.WriteLine("Hello World!");
             System.Console.WriteLine("Mykola Petrivs'kyi");
             System.Console.WriteLine("Vitalik Dosiak");
+            Console.WriteLine("Chumak Kostya");
             PrintMkosName();
             Program.PrintMark();
             Console.ReadKey();
