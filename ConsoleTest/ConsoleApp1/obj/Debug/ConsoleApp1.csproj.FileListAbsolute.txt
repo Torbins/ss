@@ -1,0 +1,6 @@
+\\fstrain\Homes\Lv-251.Net\mspil'tc\Documents\GitHub\ss\ConsoleTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+\\fstrain\Homes\Lv-251.Net\mspil'tc\Documents\GitHub\ss\ConsoleTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+\\fstrain\Homes\Lv-251.Net\mspil'tc\Documents\GitHub\ss\ConsoleTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+\\fstrain\Homes\Lv-251.Net\mspil'tc\Documents\GitHub\ss\ConsoleTest\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+\\fstrain\Homes\Lv-251.Net\mspil'tc\Documents\GitHub\ss\ConsoleTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+\\fstrain\Homes\Lv-251.Net\mspil'tc\Documents\GitHub\ss\ConsoleTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
