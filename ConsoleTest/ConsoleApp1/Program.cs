@@ -12,6 +12,10 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Mark Spilnyk");
         }
+         private static void PrintST()
+        {
+            Console.WriteLine("stiopa");
+        }
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello World!");
@@ -20,16 +24,17 @@ namespace ConsoleApp1
             Console.WriteLine("Chumak Kostya");
             PrintMkosName();
             Program.PrintMark();
+            Program.PrintST();
             Console.ReadKey();
             Name();
             Console.ReadLine();
         }
-    static void PrintMkosName()
-    {
-        Console.ForegroundColor = ConsoleColor.DarkRed;
-        Console.WriteLine("Mykola Kos");
-        Console.ResetColor();
-    }
+        static void PrintMkosName()
+        {
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.WriteLine("Mykola Kos");
+            Console.ResetColor();
+        }
         public static void Name()
         {
             Console.WriteLine("Anna Avramenko");
