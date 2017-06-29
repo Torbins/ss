@@ -20,6 +20,8 @@ namespace ConsoleApp1
             PrintMkosName();
             Program.PrintMark();
             Console.ReadKey();
+            Name();
+            Console.ReadLine();
         }
     static void PrintMkosName()
     {
@@ -27,5 +29,10 @@ namespace ConsoleApp1
         Console.WriteLine("Mykola Kos");
         Console.ResetColor();
     }
-}
+        public static void Name()
+        {
+            Console.WriteLine("Anna Avramenko");
+        }
+      
+    }
 }
