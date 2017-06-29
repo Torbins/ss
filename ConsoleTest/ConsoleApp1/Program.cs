@@ -23,7 +23,7 @@ namespace ConsoleApp1
             System.Console.WriteLine("Vitalik Dosiak");
             PrintMkosName();
             Program.PrintMark();
-               Program.PrintST();
+            Program.PrintST();
             Console.ReadKey();
             Name();
             Console.ReadLine();
