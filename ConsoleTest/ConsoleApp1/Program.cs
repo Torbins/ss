@@ -15,11 +15,17 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello World!");
+            System.Console.WriteLine("Mykola Petrivs'kyi");
+            System.Console.WriteLine("Vitalik Dosiak");
+            PrintMkosName();
             Program.PrintMark();
             Console.ReadKey();
         }
-     
+    static void PrintMkosName()
+    {
+        Console.ForegroundColor = ConsoleColor.DarkRed;
+        Console.WriteLine("Mykola Kos");
+        Console.ResetColor();
     }
 }
-
-
+}
